@@ -1,0 +1,7 @@
+torch
+torchvision
+torchaudio
+fairseq==0.12.2
+numpy
+pandas
+tensorboardX
